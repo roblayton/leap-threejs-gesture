@@ -1,5 +1,4 @@
-# leap-threejs-cubes
+# leap-threejs-gesture
 
 ## Controls
-- Close your fist to suspend blocks, grab and orbit
-- Open your fist to release the blocks
+- Make rock, scissors, paper gestures with your hand
